@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# nike-tailwindcss
 
-Currently, two official plugins are available:
+### About:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is an educational project - "Nike" prototype.
+
+**Frontend** is fully responsive for all devices, **TailwindCSS** is also used as a styling approach. **Framer-Motion** is used for smooth animations
+
+#
+
+To Visit App:
+
+Deployed in **Vercel** - `https://nike-tailwindcss-murex.vercel.app/`
+
+#
+
+![Preview](https://i.ibb.co.com/n85sX75/2024-02-26-11-38-47.png)
+![Preview](https://i.ibb.co.com/jZG1GGH/2024-02-26-11-39-00.png)
+![Preview](https://i.ibb.co.com/0G02QS4/2024-02-26-11-39-13.png)
+
