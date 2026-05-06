@@ -9,13 +9,10 @@ This is an educational project - "Nike" prototype. Made using Vite (React).
 
 #
 
-To Visit App:
+ 🌐 To Visit App
 
-Deployed in **Vercel** - `https://nike-tailwindcss-murex.vercel.app/`
+Deployed on **Vercel**:  
+👉 https://nike-tailwindcss-murex.vercel.app/
 
 #
-
-![Preview](https://i.ibb.co.com/n85sX75/2024-02-26-11-38-47.png)
-![Preview](https://i.ibb.co.com/jZG1GGH/2024-02-26-11-39-00.png)
-![Preview](https://i.ibb.co.com/0G02QS4/2024-02-26-11-39-13.png)
 
